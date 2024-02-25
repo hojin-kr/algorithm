@@ -10,7 +10,7 @@
 간단한 큐를 구현
 
 ## Code
-```
+```python
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 
 class MyQueue:
