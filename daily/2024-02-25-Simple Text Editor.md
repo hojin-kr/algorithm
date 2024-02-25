@@ -10,7 +10,7 @@
 각 에디터 기능에 대해 어떤 기술로 구현 할지에 대해 고민
 
 ## Code
-```
+```python
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 
 class myEditor:
