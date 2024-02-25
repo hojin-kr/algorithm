@@ -11,7 +11,7 @@
 어레이를 우선순위 큐로 초기화 시키는 부분을 생각해야함
 
 ## Code
-```
+```python
 #!/bin/python3
 
 import math
