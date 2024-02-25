@@ -12,7 +12,7 @@ PriorityQueue 우선순위 큐를 사용해서 출현 횟수를 우선순위 값
 
 ## Code
 https://leetcode.com/problems/sort-characters-by-frequency/solutions/4692341/topic
-```
+```go
 import (
 	"container/heap"
 )
