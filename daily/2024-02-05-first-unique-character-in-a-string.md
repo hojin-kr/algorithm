@@ -13,7 +13,7 @@
 
 ## Code
 https://leetcode.com/problems/first-unique-character-in-a-string/solutions/4681433/topic
-```
+```go
 func firstUniqChar(s string) int {
     var charMap = make(map[int]int, len(s))
     for _, v := range s {
