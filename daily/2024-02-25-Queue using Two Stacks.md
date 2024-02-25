@@ -1,5 +1,5 @@
 ## Info
-- Title : A basic queue
+- Title : Queue using Two Stacks
 - Description : [https://leetcode.com/problems/first-unique-character-in-a-string/description/ ](https://www.hackerrank.com/challenges/one-week-preparation-kit-queue-using-two-stacks)
 - Provider : hackerRank
 
