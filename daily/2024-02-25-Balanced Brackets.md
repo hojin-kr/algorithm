@@ -10,7 +10,7 @@
 짝 지어 배치되어야 하는 두 값에 대해서 스택 구조를 활용해서 접근
 
 ## Code
-```
+```python
 #!/bin/python3
 
 import math
